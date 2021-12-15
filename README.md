@@ -33,9 +33,9 @@ carried out.
 Alzheimer Disease (AD) is a neuron degenerative disorder type of disease in which patient loses his/her thinking ability. Among individuals that are older than 60 years, AD is most commonly seen. In AD the count of the neurons in the brain is comparatively less than the healthy human brain. More than 4 million individuals are projected to suffer from AD and other types of dementia in India, making the country the third largest case load in the world, after China and the US. The cases of AD are forecasted to reach around 7.5 million in India by 2030. Early identification of AD will also assist in the prevention of this illness.
 There are different stages of Alzheimer Disease that we have focused in this work. Those are as follows:
 <p align="center">
-   <img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="30%"></img> 
-   <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="30%"></img>
-   <img src="https://cloud.githubusercontent.com/assets/4307137/10105284/26aa7ad4-63ae-11e5-88b7-bc523a095c9f.png" width="30%"></img>
+   <img src="https://user-images.githubusercontent.com/35445472/146240004-1cead2ff-b007-472a-8766-c71e6c6e877a.png" width="30%"></img> 
+   <img src="https://user-images.githubusercontent.com/35445472/146240004-1cead2ff-b007-472a-8766-c71e6c6e877a.png" width="30%"></img>
+   <img src="https://user-images.githubusercontent.com/35445472/146240004-1cead2ff-b007-472a-8766-c71e6c6e877a.png" width="30%"></img>
 </p>
 
 

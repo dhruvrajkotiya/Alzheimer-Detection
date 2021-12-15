@@ -46,4 +46,5 @@ There are different stages of Alzheimer Disease that we have focused in this wor
 The target is to provide an application that correctly identifies the stage of AD based upon the MRI image.
 
 The target is to provide an application that correctly identifies the stage of AD based upon the MRI image.
-   
+ ![image](https://user-images.githubusercontent.com/35445472/146240004-1cead2ff-b007-472a-8766-c71e6c6e877a.png)
+  

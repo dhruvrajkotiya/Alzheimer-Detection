@@ -57,4 +57,9 @@ There are different stages of Alzheimer Disease that we have focused in this wor
 ![image](https://user-images.githubusercontent.com/35445472/146242187-bdcb5ae7-6ca7-4a7c-8d12-7ea0d606d6a2.png)
 
 ### Result Analysis
-![image](https://user-images.githubusercontent.com/35445472/146242242-c3fdf3d1-b044-4ede-bbee-3e94129f1c3b.png)
+![image](https://user-images.githubusercontent.com/35445472/146242495-309c246f-ded5-4c35-95be-2a3f266245bc.png)
+
+### Web-Application Snapshots
+![image](https://user-images.githubusercontent.com/35445472/146242562-eeb47592-bdbf-4647-a228-7f4752ada909.png)
+![image](https://user-images.githubusercontent.com/35445472/146242581-a790049a-803e-4d50-94b6-439368da3d0b.png)
+

@@ -34,17 +34,17 @@ Alzheimer Disease (AD) is a neuron degenerative disorder type of disease in whic
 There are different stages of Alzheimer Disease that we have focused in this work. Those are as follows:
 <p align="center">
    <img src="https://user-images.githubusercontent.com/35445472/146240004-1cead2ff-b007-472a-8766-c71e6c6e877a.png" width="30%"></img> 
-   <img src="https://user-images.githubusercontent.com/35445472/146240004-1cead2ff-b007-472a-8766-c71e6c6e877a.png" width="30%"></img>
-   <img src="https://user-images.githubusercontent.com/35445472/146240004-1cead2ff-b007-472a-8766-c71e6c6e877a.png" width="30%"></img>
+   <img src="https://user-images.githubusercontent.com/35445472/146240204-49197597-775a-4aa4-9e57-6debdd742c94.png" width="30%"></img>
+   <img src="https://user-images.githubusercontent.com/35445472/146240281-a714b18c-ed9c-4850-81e7-eccf4e58ce88.png" width="30%"></img>
 </p>
 
 
 
 
 
-   	    a) Mild Demented                               b) Non Demented                               c) Very Mild Demented
+   	    (a) Mild Demented                               (b) Non Demented                               (c) Very Mild Demented
 The target is to provide an application that correctly identifies the stage of AD based upon the MRI image.
 
-The target is to provide an application that correctly identifies the stage of AD based upon the MRI image.
- ![image](https://user-images.githubusercontent.com/35445472/146240004-1cead2ff-b007-472a-8766-c71e6c6e877a.png)
+
+
   

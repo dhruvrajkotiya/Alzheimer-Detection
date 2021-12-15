@@ -51,15 +51,20 @@ There are different stages of Alzheimer Disease that we have focused in this wor
 - Develop Web-Application that will use this CNN model to detect the stage of AD.
 
 ### Proposed Architecture
+
 ![image](https://user-images.githubusercontent.com/35445472/146242107-8f2565ec-e4f0-4ef3-8bc6-0e1cea34f911.png)
 
 ### Result Analysis
+
 ![image](https://user-images.githubusercontent.com/35445472/146242187-bdcb5ae7-6ca7-4a7c-8d12-7ea0d606d6a2.png)
 
 ### Result Analysis
+
 ![image](https://user-images.githubusercontent.com/35445472/146242495-309c246f-ded5-4c35-95be-2a3f266245bc.png)
 
 ### Web-Application Snapshots
+
 ![image](https://user-images.githubusercontent.com/35445472/146242562-eeb47592-bdbf-4647-a228-7f4752ada909.png)
-![image](https://user-images.githubusercontent.com/35445472/146242581-a790049a-803e-4d50-94b6-439368da3d0b.png)
+
+![image](https://user-images.githubusercontent.com/35445472/146242678-aae58d53-ab4c-4f9e-969e-975bbd8ff772.png)
 

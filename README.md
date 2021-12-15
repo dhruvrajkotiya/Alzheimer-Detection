@@ -44,10 +44,6 @@ There are different stages of Alzheimer Disease that we have focused in this wor
 
    	    (a) Mild Demented                    (b) Non Demented                       (c) Very Mild Demented
 ### Methodology
-Data Collection & Pre-processing of images.
-Build & train the CNN model. (Apply certain variations while developing and training the CNN Model)
-Analyze the results and finalize the CNN model.
-Develop Web-Application that will use this CNN model to detect the stage of AD.
 
 - Data Collection & Pre-processing of images.
 - Build & train the CNN model. (Apply certain variations while developing and training the CNN Model)

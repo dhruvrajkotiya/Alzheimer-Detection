@@ -42,7 +42,7 @@ There are different stages of Alzheimer Disease that we have focused in this wor
 
 
 
-   	    (a) Mild Demented                               (b) Non Demented                               (c) Very Mild Demented
+   	    (a) Mild Demented                    (b) Non Demented                    (c) Very Mild Demented
 The target is to provide an application that correctly identifies the stage of AD based upon the MRI image.
 
 

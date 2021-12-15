@@ -30,4 +30,12 @@ models. When the CNN model was finalized, we also
 discussed comparative research for various variants 
 carried out.
 ### Introduction
-Alzheimer Disease (AD) is a neuron degenerative disorder type of disease in which patient loses his/her thinking ability.Among individuals that are older than 60 years, AD is most commonly seen. In AD the count of the neurons in the brain is comparatively less than the healthy human brain. More than 4 million individuals are projected to suffer from AD and other types of dementia in India, making the country the third largest case load in the world, after China and the US. The cases of AD are forecasted to reach around 7.5 million in India by 2030. Early identification of AD will also assist in the prevention of this illness.
+Alzheimer Disease (AD) is a neuron degenerative disorder type of disease in which patient loses his/her thinking ability. Among individuals that are older than 60 years, AD is most commonly seen. In AD the count of the neurons in the brain is comparatively less than the healthy human brain. More than 4 million individuals are projected to suffer from AD and other types of dementia in India, making the country the third largest case load in the world, after China and the US. The cases of AD are forecasted to reach around 7.5 million in India by 2030. Early identification of AD will also assist in the prevention of this illness.
+There are different stages of Alzheimer Disease that we have focused in this work. Those are as follows:
+
+
+
+
+   	 a) Mild Demented          b) Non Demented             c) Very Mild Demented
+The target is to provide an application that correctly identifies the stage of AD based upon the MRI image.
+![image](https://user-images.githubusercontent.com/35445472/146237870-53781c41-6cef-4d19-8d9b-ccbd5019d2ae.png)

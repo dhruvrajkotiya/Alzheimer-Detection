@@ -49,3 +49,12 @@ There are different stages of Alzheimer Disease that we have focused in this wor
 - Build & train the CNN model. (Apply certain variations while developing and training the CNN Model)
 - Analyze the results and finalize the CNN model.
 - Develop Web-Application that will use this CNN model to detect the stage of AD.
+
+### Proposed Architecture
+![image](https://user-images.githubusercontent.com/35445472/146242107-8f2565ec-e4f0-4ef3-8bc6-0e1cea34f911.png)
+
+### Result Analysis
+![image](https://user-images.githubusercontent.com/35445472/146242187-bdcb5ae7-6ca7-4a7c-8d12-7ea0d606d6a2.png)
+
+### Result Analysis
+![image](https://user-images.githubusercontent.com/35445472/146242242-c3fdf3d1-b044-4ede-bbee-3e94129f1c3b.png)

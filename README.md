@@ -68,3 +68,9 @@ There are different stages of Alzheimer Disease that we have focused in this wor
 
 ![image](https://user-images.githubusercontent.com/35445472/146242678-aae58d53-ab4c-4f9e-969e-975bbd8ff772.png)
 
+### Conclusion and Future Scope
+
+- Early detection of Alzheimer's can prompt deceleration of Alzheimer's Disease movement.
+- Existing work has been partially effective in automatic AD detection with high accuracy for training data. The proposed application model can achieve more accuracy as compared to state of art method for the real time data too. 
+- The proposed CNN application model consists of 5 layers and can achieve 94% accuracy. Since the proposed system uses convolution neural networks, we believe that if the network is trained with larger training data, the accuracy of the detection will be much higher. 
+- We expect to train the model with more stages of AD in the future, based on the availability of the dataset for those stages, so that we can cover every parameter for Alzheimer's Disease. Currently, we are accessing the application via local server. We plan to deploy it to the Web Server.
